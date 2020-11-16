@@ -1,0 +1,12 @@
+/*  Put your CSS Here */
+td {
+	border: 1px solid blue;
+	width: 100px;
+	height: 100px;
+}
+td:hover {
+	background: plum;
+}
+table {
+	border: 1px solid green;
+}
